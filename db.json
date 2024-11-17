@@ -1,5 +1,19 @@
 {
     "users": [
-        
+        {
+            "id": 2,
+            "name": "Igor",
+            "surname": "Kravchenko",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpwcrooRMntLb8eUdaJmY3PCaRt8NAGfWtw&s",
+            "balance": 200
+        },
+
+        {
+            "id": 811,
+            "name": "Alina",
+            "surname": "Tapok",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtPpdoW0d5F4mvRlSJXFqHvcuqX6T446SyQ&s",
+            "balance": 7000
+        }
     ]
 }
