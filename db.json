@@ -33,6 +33,12 @@
 
     ],
     "products": [
-        
+        {
+            "id": 64,
+            "name": "bed",
+            "photo_url": "https://naturalmat.co.uk/cdn/shop/files/Naturalmat_06.23_1042_HRU_newBLKleg_v1.jpg?v=1709918714&width=1946",
+            "description": "Featuring our sleekest base yet and oversized piping on the headboard. The Ashford combines modern minimalism with quintessential touches for a fresh yet familiar feel.",
+            "price": 1700
+        }
     ]
 }
