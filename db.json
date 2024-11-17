@@ -33,6 +33,17 @@
 
     ],
     "products": [
-        
+        {
+            "id": 11037,
+            "name": "Soap",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2PLtPBBVzdLkdmPQn-GhRPZxU9T8xXuTbUQ&s",
+            "price": 1000
+        },
+        {
+            "id": 53,
+            "name": "Cactuus",
+            "photo_url": "https://m.media-amazon.com/images/I/91XwY3Vce8L._AC_UF894,1000_QL80_.jpg",
+            "price": 150
+        }
     ]
 }
