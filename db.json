@@ -1,5 +1,20 @@
 {
     "users": [
+        {
+            "id": 1,
+            "name": "Elena",
+            "surname": "Avolona",
+            "photo_url": "https://static.wikia.nocookie.net/thevampirediariesfanon/images/5/51/Elena-Gilbert-cute-maribou-31433278-800-10020.jpg/revision/latest?cb=20210802075907",
+            "balance": 2000
+        },
+
+        {
+            "id": 830,
+            "name": "Avrora",
+            "surname": "Millsa",
+            "photo_url": "https://i.scdn.co/image/ab67616100005174c860dbaf7dbfc58cda46d74d",
+            "balance": 780
+        }
         
     ]
 }
